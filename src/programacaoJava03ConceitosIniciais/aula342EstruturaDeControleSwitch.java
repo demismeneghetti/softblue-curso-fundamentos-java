@@ -4,7 +4,7 @@ public class aula342EstruturaDeControleSwitch {
 
 	public static void main(String[] args) {
 
-		int num = 20;
+		int num = 50;
 
 		// Neste caso, trata-se de uma opcao ao If/Else com algumas ressalvas!
 		switch (num) {
@@ -21,7 +21,7 @@ public class aula342EstruturaDeControleSwitch {
 			break;
 
 		default:
-			System.out.println("Outro número!");
+			System.out.println("Outro nœmero!");
 		}
 	}
 }
