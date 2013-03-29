@@ -6,7 +6,7 @@ public class aula342EstruturaDeControleSwitch {
 
 		int num = 20;
 
-		// Neste caso, trata-se de uma opção ao If/Else com algumas ressalvas!
+		// Neste caso, trata-se de uma opcao ao If/Else com algumas ressalvas!
 		switch (num) {
 		case 0:
 			System.out.println("Numero 0");

@@ -15,7 +15,7 @@ public class aula33CastingDeTiposPrimitivos {
 		float f = 10f;
 		System.out.println(f);
 
-		// CASTING EXPLICITO - É necessário a intervensão do programador.
+		// CASTING EXPLICITO - É necessario a intervensao do programador.
 		int i = (int) 14.5;
 		System.out.println(i);
 
