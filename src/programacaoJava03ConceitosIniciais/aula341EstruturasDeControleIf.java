@@ -4,9 +4,9 @@ public class aula341EstruturasDeControleIf {
 
 	public static void main(String[] args) {
 
-		/* Ao alterar o valor da variável e executando a classe 
-		o resultado é exibido de acordo com o informado no codigo */
-		int num = 15;
+		// Ao alterar o valor da variavel e executando a classe 
+		// o resultado e exibido de acordo com o informado no codigo.
+		int num = 5;
 
 		// Se o valor for maior que 10
 		if (num > 10) {
