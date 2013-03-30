@@ -6,9 +6,8 @@ public class aula353EstruturasDeControleFor {
 
 		int i = 10;
 		
-		for(int)
-			
+		for (i > 10;){
+			System.out.println(i);
 		}
 	}
-
 }
