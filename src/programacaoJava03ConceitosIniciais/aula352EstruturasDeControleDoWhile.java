@@ -4,11 +4,11 @@ public class aula352EstruturasDeControleDoWhile {
 
 	public static void main(String[] args) {
 
-		int i = 10;
+		int i = 0;
 		
-		do {
-			while 
-		}
+		do{
+			i++;
+			System.out.println(i);
+		} while (i < 10);
 	}
-
 }
