@@ -11,6 +11,6 @@ public class aula32TrabalhandoComVariaveis {
 
 		// Esta impressao executada, exibira um exception
 		// System.out.println(0 / 0);
-
+		
 	}
 }
