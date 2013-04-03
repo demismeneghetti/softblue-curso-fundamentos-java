@@ -6,7 +6,7 @@ public class aula32TrabalhandoComVariaveis {
 
 		// Este metodo, ao ser executado, exibira o resultado da variavel X
 		int x;
-		x = 10;
+		x = 500;
 		System.out.println(x);
 
 		// Esta impressao executada, exibira um exception
