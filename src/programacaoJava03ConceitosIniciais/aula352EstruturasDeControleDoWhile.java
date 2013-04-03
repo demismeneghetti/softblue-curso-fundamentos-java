@@ -9,6 +9,6 @@ public class aula352EstruturasDeControleDoWhile {
 		do{
 			i++;
 			System.out.println(i);
-		} while (i < 10);
+		} while (i < 100);
 	}
 }
