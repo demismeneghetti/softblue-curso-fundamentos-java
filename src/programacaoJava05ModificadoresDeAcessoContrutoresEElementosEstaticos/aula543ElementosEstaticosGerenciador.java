@@ -1,10 +1,10 @@
 package programacaoJava05ModificadoresDeAcessoContrutoresEElementosEstaticos;
 
-public class aula544ElementosEstaticosGerenciador {
+public class aula543ElementosEstaticosGerenciador {
 
 	private static int contador = 0;
 		
-	public aula544ElementosEstaticosGerenciador(){
+	public aula543ElementosEstaticosGerenciador(){
 		setContador(getContador() + 1);
 	
 	}
@@ -14,7 +14,7 @@ public class aula544ElementosEstaticosGerenciador {
 	}
 
 	public static void setContador(int contador) {
-		aula544ElementosEstaticosGerenciador.contador = contador;
+		aula543ElementosEstaticosGerenciador.contador = contador;
 	}
 }
 
