@@ -6,7 +6,6 @@ public class aula543ElementosEstaticosGerenciador {
 		
 	public aula543ElementosEstaticosGerenciador(){
 		setContador(getContador() + 1);
-	
 	}
 
 	public static int getContador() {
