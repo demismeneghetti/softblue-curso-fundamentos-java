@@ -21,9 +21,9 @@ public class aula522OsModificadoresDeAcessoPrivateEPublicAplicacao {
 		String cpf = c1.getCpf();
 		boolean ativa = c1.getAtiva();
 		
-		System.out.println(numConta);
-		System.out.println(cpf);
-		System.out.println(ativa);
-		System.out.println(saldo);
+		System.out.println("Número: " + numConta);
+		System.out.println("CPF n.º: " + cpf);
+		System.out.println("Status: " + ativa);
+		System.out.println("Saldo R$: " + saldo);
 	}
 }
