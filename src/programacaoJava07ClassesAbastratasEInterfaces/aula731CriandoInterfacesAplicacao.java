@@ -1,5 +1,5 @@
 package programacaoJava07ClassesAbastratasEInterfaces;
 
-public class aula73CriandoInterfaces {
+public class aula731CriandoInterfacesAplicacao {
 
 }

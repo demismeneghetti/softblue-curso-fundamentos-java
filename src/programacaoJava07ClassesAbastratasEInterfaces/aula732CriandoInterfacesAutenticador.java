@@ -1,5 +1,5 @@
 package programacaoJava07ClassesAbastratasEInterfaces;
 
-public class aula72CriandoClassesAbstratas {
+public interface aula732CriandoInterfacesAutenticador {
 
 }
