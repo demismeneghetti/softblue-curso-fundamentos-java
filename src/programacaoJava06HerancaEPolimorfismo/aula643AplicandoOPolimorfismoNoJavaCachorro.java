@@ -6,4 +6,8 @@ public class aula643AplicandoOPolimorfismoNoJavaCachorro extends
 	public void falar(){
 		System.out.println("Au! Au!");
 	}
+	
+	public void morder(){
+		System.out.println("Nhac!");
+	}
 }
