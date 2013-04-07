@@ -1,0 +1,6 @@
+package programacaoJava06HerancaEPolimorfismo;
+
+public class aula624AplicandoAHerancaEntreClassesNoJavaMotocicleta extends aula622AplicandoAHerancaEntreClassesNoJavaVeiculo{
+
+	
+}
