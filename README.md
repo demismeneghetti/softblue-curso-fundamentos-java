@@ -1,6 +1,6 @@
-cursos-softblue
+softblue-curso-fundamentos-java
 =========================================================
 
-Cursos SoftBlue - Lógica de Programação e Java OO
+Cursos de Fundamentos Java OO
 
 =========================================================
